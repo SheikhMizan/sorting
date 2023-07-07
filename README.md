@@ -4,7 +4,7 @@ This repository contains implementations of various sorting algorithms. Sorting 
 
 ## Algorithms Included
 
-The following sorting algorithms are implemented in this repository:
+The following sorting algorithms are/will be implemented in this repository:
 
 1. Bubble Sort
 2. Selection Sort
